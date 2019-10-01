@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Jedsada Tiwongvorakul](https://github.com/t-jedsada)
+- Place: Chiang Mai, Thailand
+- Bio: Developer.
+- GitHub: [T-Jedsada](https://github.com/T-Jedsada)
